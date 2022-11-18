@@ -64542,7 +64542,7 @@ $3(a,b,c){return B.lU},
 $S:146}
 A.Cz.prototype={
 J(a){var s=null,r=t._
-return A.cN(s,A.mE(A.b([A.eU(A.ef("All Right Reserved",s,s,s,A.dh(s,s,s,s,s,s,s,s,s,s,s,10,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.eU(A.mE(A.b([new A.kz("Twitter",new A.T9(),s),new A.kz("Facebook",new A.Ta(),s),new A.kz("Linkedin",new A.Tb(),s),new A.kz("Instagram",new A.Tc(),s),new A.kz("whatsapp",new A.Td(),s)],r),B.a7,B.a1),2)],r),B.a7,B.a1),B.p,s,s,s,s,s,new A.aj(40,20,40,20),s,s,s,s)}}
+return A.cN(s,A.mE(A.b([A.eU(A.ef("All Right Reserved",s,s,s,A.dh(s,s,s,s,s,s,s,s,s,s,s,10,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.eU(A.mE(A.b([new A.kz("Twitter",new A.T9(),s),new A.kz("Facebook",new A.Ta(),s),new A.kz("Youtube",new A.Tb(),s),new A.kz("Instagram",new A.Tc(),s),new A.kz("Whatsapp",new A.Td(),s)],r),B.a7,B.a1),2)],r),B.a7,B.a1),B.p,s,s,s,s,s,new A.aj(40,20,40,20),s,s,s,s)}}
 A.T9.prototype={
 $0(){A.li("https://twitter.com")},
 $S:3}

@@ -8,7 +8,7 @@ const RESOURCES = {
 "assets/assets/images/logo_malikidiomas_old.png": "6ad01841da4f9850fde8e4354a2ae5d3",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "9b4efc9cabb1c953c66d84da9c0580d0",
+"assets/NOTICES": "4384de2fe20f20b2250b32f2c2bdbd3d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -22,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8f10c3a965d60770c3c9ec091159b4c6",
-"/": "8f10c3a965d60770c3c9ec091159b4c6",
-"main.dart.js": "c82abbcb8fd75e89e039437e6d1ea6ab",
+"index.html": "e0b713dd6aececc2ba39e08bb93bd645",
+"/": "e0b713dd6aececc2ba39e08bb93bd645",
+"main.dart.js": "0c152ad5c228fe78c852fb574e4ad31a",
 "manifest.json": "e04718eff33de79d3b3efa6da5734c5a",
 "version.json": "25ab78238831ec0a9f3bb98183ad1d26"
 };

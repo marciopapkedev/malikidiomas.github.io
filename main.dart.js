@@ -20692,7 +20692,7 @@ aBU(){var s,r=$.cD().b.a.f
 r=r.length===0?B.DH:B.b.gN(r)
 s=J.jn(r)
 A.mo().$1("Local: "+s.i(r))
-if(s.i(r).toUpperCase()==="PT_BR")A.bQ(A.bF(0,0,0,3),new A.ahm())},
+if(s.i(r).toUpperCase()==="PT_BR")A.bQ(A.bF(0,0,0,2),new A.ahm())},
 fW:function fW(){var _=this
 _.d=_.c=_.b=_.a=null},
 w5:function w5(a){this.a=a},

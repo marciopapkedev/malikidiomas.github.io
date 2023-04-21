@@ -82930,7 +82930,7 @@ aH(){this.aY()},
 K(a){$.bL=A.Og(a,t.cF)
 A.aV2()
 return A.abl(new A.aoY(this,a))},
-aoS(a,b){var s,r,q,p=this,o=null,n="assets/images/card_de.png",m="assets/images/card_en.png",l="Ao estudar no curso de ingl\xeas da Malik Idiomas, voc\xea desenvolve 4 habilidades na l\xedngua inglesa. S\xe3o aulas de ingl\xeas do b\xe1sico ao avan\xe7ado e flu\xeancia para crian\xe7as, adolescentes e adultos.E se voc\xea precisa de curso intensivo de ingl\xeas, procure a Malik mais pr\xf3xima de voc\xea!",k="assets/images/card_pt.png"
+aoS(a,b){var s,r,q,p=this,o=null,n="assets/assets/images/card_de.png",m="assets/assets/images/card_en.png",l="Ao estudar no curso de ingl\xeas da Malik Idiomas, voc\xea desenvolve 4 habilidades na l\xedngua inglesa. S\xe3o aulas de ingl\xeas do b\xe1sico ao avan\xe7ado e flu\xeancia para crian\xe7as, adolescentes e adultos.E se voc\xea precisa de curso intensivo de ingl\xeas, procure a Malik mais pr\xf3xima de voc\xea!",k="assets/assets/images/card_pt.png"
 if(a==="Home")return p.TH()
 else if(a==="Cursos"){s=$.bL
 r=s.bv$

@@ -25946,7 +25946,7 @@ var $async$Ic=A.a_(function(a2,a3){if(a2===1){o=a3
 s=p}while(true)switch(s){case 0:g="https://malikidiomasms.azurewebsites.net/v1/Email/SendEmail?key=123"
 f=null
 p=4
-n='{"name": "'+a+'","email": "'+b+'","code": "'+c+'","phone": "'+a0+',"isAgree":'+J.ce(a1)+"}"
+n='{"name": "'+a+'","email": "'+b+'","code": "'+c+'","phone": "'+a0+',,"agree": "'+J.ce(a1)+'"}'
 k=new A.a2W(null,new A.LZ(A.a([],t.yr),new A.A8(),new A.A8(),new A.A8()),null,new A.a2M(),!1)
 j=new A.a0P(null,null,null,B.eu,null,!0,!0,5,null,null)
 j.C_(null,null,!0,null,5,null,!0,null,null,null,B.eu,null,null)

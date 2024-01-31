@@ -11,7 +11,7 @@
     For more details:
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
-  <base href="https://marcio-papke.github.io/malikidiomas.github.io/">
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -23,6 +23,9 @@
   <meta name="apple-mobile-web-app-title" content="login_i">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
+  <!-- Márcio Papke - adicionei para tirar o erro no console de: Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'. -->
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+
   <title>login_i</title>
   <link rel="manifest" href="manifest.json">
 </head>
@@ -31,7 +34,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '1903999022';
+    var serviceWorkerVersion = '129619810';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

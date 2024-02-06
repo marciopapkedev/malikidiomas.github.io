@@ -91491,8 +91491,12 @@ q.F(new A.awi())
 A.IQ(a,b).ag(new A.awj(q),t.P)
 return A.F(null,r)}})
 return A.G($async$DE,r)},
-ai8(){var s=this,r=null,q=4294204711,p=t.t,o=A.a_(A.b6(A.a([A.x("Question(s) "+($.mX+1)+" of "+s.d.e.length,r,r,r,A.Y(r,r,r,r,r,r,r,r,r,r,r,22,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.x("Score: "+$.Ie,r,r,r,A.Y(r,r,r,r,r,r,r,r,r,r,r,22,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],p),B.m,B.jp,B.l),10),n=A.a_(s.f?A.p(r,A.aI(A.cS(new A.c3(new A.n(q),t.A)),r,r),B.d,r,r,r,r,190,r,r,r,r,r):A.MI(s.d.e[$.mX].c,new A.awk(),B.bF,200,new A.awl(),s.c.C(t.w).f.a.a),30),m=A.a_(s.f?A.aI(A.cS(new A.c3(new A.n(q),t.A)),r,r):new A.aZ(B.o,r,r,A.p(r,A.x(s.d.e[$.mX].b,r,r,r,A.Y(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.d,r,r,r,r,r,r,r,r,r,r),r),10)
-return new A.rM(A.d_(r,new A.as(B.aG,A.p(B.eQ,A.aO(A.a([o,n,m,A.a_(A.p(r,s.f?A.aI(A.cS(new A.c3(new A.n(q),t.A)),r,r):A.aO(A.a([A.kW(B.b8,s.a3X(),B.a6,20,20)],p),B.m,B.df,B.l),B.d,r,r,r,r,r,r,r,r,r,r),40),A.a_(s.a3R(),10)],p),B.m,B.q,B.l),B.d,r,r,r,r,r,r,r,r,r,r),r),r),new A.awm(),r)},
+ai8(){var s,r,q=this,p=null,o=4294204711,n=t.t,m=A.a_(A.b6(A.a([A.x("Question(s) "+($.mX+1)+" of "+q.d.e.length,p,p,p,A.Y(p,p,p,p,p,p,p,p,p,p,p,22,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.x("Score: "+$.Ie,p,p,p,A.Y(p,p,p,p,p,p,p,p,p,p,p,22,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],n),B.m,B.jp,B.l),10)
+if(q.f)s=A.p(p,A.aI(A.cS(new A.c3(new A.n(o),t.A)),p,p),B.d,p,p,p,p,190,p,p,p,p,p)
+else{s=t.w
+s=A.MI(q.d.e[$.mX].c,new A.awk(),B.bF,q.c.C(s).f.a.b/2,new A.awl(),q.c.C(s).f.a.a/2)}s=A.a_(s,30)
+r=A.a_(q.f?A.aI(A.cS(new A.c3(new A.n(o),t.A)),p,p):new A.aZ(B.o,p,p,A.p(p,A.x(q.d.e[$.mX].b,p,p,p,A.Y(p,p,p,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.d,p,p,p,p,p,p,p,p,p,p),p),10)
+return new A.rM(A.d_(p,new A.as(B.aG,A.p(B.eQ,A.aO(A.a([m,s,r,A.a_(A.p(p,q.f?A.aI(A.cS(new A.c3(new A.n(o),t.A)),p,p):A.aO(A.a([A.kW(B.b8,q.a3X(),B.a6,20,20)],n),B.m,B.df,B.l),B.d,p,p,p,p,p,p,p,p,p,p),40),A.a_(q.a3R(),10)],n),B.m,B.q,B.l),B.d,p,p,p,p,p,p,p,p,p,p),p),p),new A.awm(),p)},
 a3R(){var s,r,q=null,p=t.w,o=this.c.C(p).f
 p=this.c.C(p).f
 s=A.a([new A.n(4294204711),new A.n(4294280479)],t.d)
